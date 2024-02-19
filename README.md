@@ -36,9 +36,9 @@ For more details, please refer to the attached presentation.
 
 **Note**: The codebase is not provided in this repository as it contains proprietary information belonging to the company.
 
-For inquiries or further information, please contact [Your Name] at [Your Email].
+For inquiries or further information, please contact me at anshums3@uci.edu .
+
+A demo of the product is included in the presentation for a visual representation of the implemented solution.
 
 Thank you.
 
-**[Your Name]**  
-[Your Contact Information]
